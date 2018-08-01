@@ -88,3 +88,5 @@ secret.py
 
 .env
 db.sqlite3
+
+
