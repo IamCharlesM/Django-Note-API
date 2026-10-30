@@ -44,7 +44,6 @@ lib/
 lib64/
 parts/
 sdist/
-temp_auto_push.bat
 var/
 *.egg-info/
 .installed.cfg
@@ -91,4 +90,3 @@ secret.py
 db.sqlite3
 
 
-branch_structure.json
